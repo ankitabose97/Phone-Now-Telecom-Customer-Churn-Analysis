@@ -89,6 +89,24 @@ Dataset consisting of 7,043 rows and 23 columns of PhoneNow Telecoms
 	
     •	Churn: Indicates whether the customer churned (Yes = churned, No = retained).
 
+![Alt Text](https://github.com/ankitabose97/Phone-Now-Telecom-Customer-Churn-Analysis/blob/main/Telecom%20Customer%20Churn%20Analysis%20Dasboard.png)
+
+### Insights:
+
+	•	The customer churn rate last month was 27%, which means that out of 7043 customers, 1869 left the company.
+	•	The length of the contract and the tenure of the customer are key factors in predicting the churn behavior. Customers who have a monthly contract and a  lower tenure are more likely to switch to other providers.
+	•	Customers who do not have any dependents or partners are more prone to churn than those who do.
+	•	Gender does not seem to have a significant impact on the churn decision. However, senior citizens are less likely to churn than non-senior citizens.
+	•	Customers who use Fibre Optic internet service have a higher churn rate than those who use other types of internet service. The payment method also influences the churn decision, with Electronic check being the most common among the churned customers.
+	•	Customers who do not receive services such as Tech Support, Device Protection, and Online Security are more dissatisfied and tend to look for other options.
+
+### Suggestions:
+
+	•	The company should consider extending the basic contract plan from one month to three or six months. This would encourage customers to stay longer with the company and reduce the churn rate.
+	•	The company should also target customers who are single and have no family obligations. They have the potential to become loyal customers if they are offered attractive deals and discounts. The company should adopt a 'Catch them Young' strategy for this segment.
+	•	The company should provide basic services such as device protection, tech support, and online security as part of their standard package. These services can increase customer satisfaction and loyalty, and prevent them from switching to competitors.
+	•	Thank you for your time and attention.
+
     
 
 
