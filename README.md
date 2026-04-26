@@ -1,4 +1,4 @@
-# Phone-Now-Telecom-Customer-Churn-Analysis
+# PhoneNow-Telecom-Customer-Churn-Analysis
 This project focuses on helping businesses prevent customer loss and improve customer service.
 
 ## Key Features:
